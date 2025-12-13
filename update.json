@@ -4,5 +4,5 @@
   "changelog": "Fixed bugs, improved performance, added new features",
   "release_notes": "Important update with security improvements",
   "minimum_required": "1.0.0",
-  "force_update": false
+  "force_update": true
 }
