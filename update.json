@@ -3,6 +3,6 @@
   "download_url": "https://lively-gnome-1bbbac.netlify.app",
   "changelog": "تعديلات علي الديزين مع اضافة مميزات جديدة ",
   "release_notes": "تعديدلات علي المأذن وتشغيلة لكي يعمل والبرنامج مغلق ",
-  "minimum_required": "1.0.0",
+  "minimum_required": "2.0.0",
   "force_update": true
 }
