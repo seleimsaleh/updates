@@ -4,5 +4,5 @@
   "changelog": "تعديلات علي الديزين مع اضافة مميزات جديدة ",
   "release_notes": "تعديدلات علي المأذن وتشغيلة لكي يعمل والبرنامج مغلق ",
   "minimum_required": "1.0.0",
-  "force_update": false
+  "force_update": true
 }
